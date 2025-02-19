@@ -23,5 +23,5 @@ Project 6: Space Missions Data Analysis: In this project I analyze data on Space
 Project 7: Fatal Force Data Analyis: In this project I analyze crime data in different American cities over the last decade+ and produce charts/graphs about the data using Pandas, MatplotLib and Seaborn. Some charts may not show up on Github, so if you want to see all of the charts open the file in Google Colabratory.
 
 
-Project 8: Crude Oil Weekly Balances + Multivariable Regression: In this project I use EAI data from 2014-11-08 until the present day to perform multiple different types of analysis. To see my commentary on the data and the takeaways I took from the regressions I performed check the text file named CrudeOilCommentary where I go over all of that information.
+Project 8: Crude Oil Weekly Balances + Multivariable Regression: In this project I use EIA data from 2014-11-08 until the present day to perform multiple different types of analysis. To see my commentary on the data and the takeaways I took from the regressions I performed check the text file named CrudeOilCommentary where I go over all of that information.
 
