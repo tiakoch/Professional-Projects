@@ -14,7 +14,7 @@ Project 3: Oil Price Scraper: This project scrapes current price data on 20+ oil
 Project 4: Morse Code Converter: This project takes the text that you input and converts it into Morse Code. To test this code, download/copy the code from Github and when prompted enter the text that you wish to be converted into Morse Code.
 
 
-Project 5: Automated Birthday Wisher: This project automatically emails a randomized birthday message at 9 AM to the person you specify. To test this code, download/copy the code from Github and change the Birthday information to the person you want to wish a happy birthday to. When prompted, change the sending and recieving email address to the applicable ones.
+Project 5: Automated Birthday Wisher: This project automatically emails a randomized birthday message at 9 AM to the person you specify. To test this code go into the Birthday-Wisher path, download/copy the code from Github and change the Birthday information to the person you want to wish a happy birthday to. When prompted, change the sending and recieving email address to the applicable ones.
 
 
 Project 6: Space Missions Data Analysis: In this project I analyze data on Space Launches from the 1970s and produce charts/graphs about the data using Pandas, MatplotLib and Seaborn. Some charts may not show up from the file on Github, so if you want to see all of the charts open the file in Google Colabratory.
